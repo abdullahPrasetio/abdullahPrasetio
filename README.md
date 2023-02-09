@@ -70,6 +70,6 @@
 
 ### :fire: My Stats : 
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdullahPrasetio&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdullahPrasetio&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 </div>
   
